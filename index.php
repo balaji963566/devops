@@ -11,7 +11,7 @@
 <td><input type="text" name="fn" id="fn1" maxlength="10" title="enter your first name" placeholder="enter your first name" required/></td>
 </tr>
 <tr>
-<th>Enter your last name</th>
+<th> Enter your last name </th>
 <td><input type="text"/></td>
 </tr>
 <tr>

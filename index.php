@@ -1,11 +1,11 @@
 <html>
 <head>
-<title> HTML Table</title>
+<title>HTML Table</title>
 </head>
 <body>
 <form method="" action="">
 <table border="1" align="center" width="400" bgcolor="#CCCCCC" >
-<caption>Registration form</caption>
+<caption> Registration form</caption>
 <tr>
 <th>Enter your first name</th>
 <td><input type="text" name="fn" id="fn1" maxlength="10" title="enter your first name" placeholder="enter your first name" required/></td>

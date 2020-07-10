@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>HTML Table</title>
+<title> HTML Table</title>
 </head>
 <body>
 <form method="" action="">
